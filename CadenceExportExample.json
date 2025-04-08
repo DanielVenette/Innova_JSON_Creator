@@ -1,0 +1,925 @@
+{
+  "Job Details": {
+    "Job Number": "XXXXXXXX",
+    "SAP Sales Order Number": "111966649",
+    "Surface Logging Only": null,
+    "Coord. Office Location": "PEN-2309 (Mt Pleasant)",
+    "Coordinator": "Drew Andes",
+    "Customer": "XXXXXXXXXX",
+    "User431": "venedanl",
+    "Job Status": "Active",
+    "Well Details": {
+      "Production Type": "XXXX",
+      "Well Name": "XXXXXXXX",
+      "Field name": "XXXXXXXX",
+      "Well Environment": "ONSHORE",
+      "Government Reference ID (API Number)": "XXXXXXXXXXX",
+      "Water Depth": {
+        "Value": null,
+        "Uom": "ft"
+      },
+      "Rig Name": "XXXXXXXXXXXX",
+      "Rig Type": "Land"
+    },
+    "Run Details": {
+      "BHA Run #": "1",
+      "Run # in Advantage": "1",
+      "Wellbore": "Lash 9H",
+      "Date/Time In": "2023-09-26T 14:00:00.000",
+      "Date/Time Out": "2025-03-06T 12:13:25.377",
+      "Depth In": {
+        "Value": 5393.0000000000164,
+        "Uom": "ft"
+      },
+      "Depth Out": {
+        "Value": 17836.960000000014,
+        "Uom": "ft"
+      },
+      "Hole Size": {
+        "Value": 8.5,
+        "Uom": "in"
+      },
+      "Max. Tool Size": {
+        "Value": 6.75,
+        "Uom": "in"
+      },
+      "Product Family": "AT Curve Pro MTR, AT Curve Pro, STC",
+      "Circ. Time": {
+        "Value": 139.3195052094479,
+        "Uom": "hours"
+      },
+      "Drilling Time": {
+        "Value": 120.85444444541129,
+        "Uom": "hours"
+      },
+      "Run Status": "Good Run",
+      "BHA Run Out of Spec.": "No",
+      "Out Of Spec Remarks": null,
+      "Recommended Action": null,
+      "Customer Notification": null,
+      "OOS Conditions": null,
+      "Drilling Fluid Provider ": null,
+      "Distance Drilled": {
+        "Value": 12443.959999999995,
+        "Uom": "ft"
+      },
+      "Run Closing Information": {
+        "Run Remarks": null,
+        "POOH Reason": null
+      },
+      "Software Details": {
+        "Field Software": "Cadence 7.6.10656.7",
+        "Update/Patch": "",
+        "Talaria Used": "Yes",
+        "i-Trak Used": null,
+        "i-Trak SW Version": null,
+        "Telemetry Surface System": "SARA2"
+      }
+    }
+  },
+  "BHA": {
+    "BHI Bottom Hole Assembly": [
+      {
+        "Module": "Filter Sub",
+        "Serial Number": "ZSD121797",
+        "Tool Size": {
+          "Value": 6.7499999999999876,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "Flex Sub",
+        "Serial Number": "DR51506",
+        "Tool Size": {
+          "Value": 6.7499999999999876,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "UTR",
+        "Serial Number": "11988936",
+        "Tool Size": {
+          "Value": 6.7499999999901448,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "Flex Sub",
+        "Serial Number": "ZDR9086",
+        "Tool Size": {
+          "Value": 6.7499999999999876,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "Stabilizer",
+        "Serial Number": "DR51588",
+        "Tool Size": {
+          "Value": 6.7499999999999876,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "ATC_LCPM",
+        "Serial Number": "14388856",
+        "Tool Size": {
+          "Value": 6.9999999999897806,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "ATC_MWD",
+        "Serial Number": "14334277",
+        "Tool Size": {
+          "Value": 6.9999999999897806,
+          "Uom": "in"
+        }
+      },
+      {
+        "Module": "ATC_SU",
+        "Serial Number": "14949209",
+        "Tool Size": {
+          "Value": 6.9999999999897806,
+          "Uom": "in"
+        }
+      }
+    ],
+    "BHA Size and Bit Information": {
+      "Bit Size": {
+        "Value": 8.4999999999999911,
+        "Uom": "in"
+      },
+      "Bit Type Classification": "PDC bit",
+      "Bit Type": "PDC - PDC Bit",
+      "Bit Manufacturer": "Hughes Christensen",
+      "Bit Model #": "ATD405X",
+      "Bit Serial #": "5342311",
+      "Reason for 3rd Party Bit": "",
+      "Bit Activity Description": "drilling",
+      "Bit Grading In": "0-0-NO-A-X-I-NO-",
+      "Bit Grading Out": "-------",
+      "Under Reamer Size": {
+        "Value": null,
+        "Uom": "in"
+      }
+    },
+    "Non-BHI Equipment": []
+  },
+  "Operational Parameters": {
+    "Tool Specific Operational Parameters": {
+      "Average Flow Rate": {
+        "Value": 535.5223980163471,
+        "Uom": "Usgal/min"
+      },
+      "Average RPM": {
+        "Value": 115.09389791776314,
+        "Uom": "rpm"
+      },
+      "Average Temperature": {
+        "Value": 173.5857511492913,
+        "Uom": "degF"
+      },
+      "Jarring (Y/N)": "No",
+      "Jarring: The Number times of Jar activated?": {
+        "Value": null,
+        "Uom": null
+      },
+      "Remote Intensity": {
+        "Value": null,
+        "Uom": "fraction"
+      },
+      "Maximum Departure (Vertical Section)": {
+        "Value": 10745.650862811743,
+        "Uom": "ft"
+      },
+      "Remote Operations": "No",
+      "Underbalanced Drilling (Y/N)": "No",
+      "Managed Pressure Drilling (Y/N)": "No",
+      "Unmonitored Drilling / Reaming": "No",
+      "Maximum DLS Rotated": {
+        "Value": 13.824224679403674,
+        "Uom": "deg/100ft"
+      },
+      "Maximum Flow Rate": {
+        "Value": 944.14996306875037,
+        "Uom": "Usgal/min"
+      },
+      "Maximum Pressure": {
+        "Value": null,
+        "Uom": "psi"
+      },
+      "Maximum RPM": {
+        "Value": 120.61095813229041,
+        "Uom": "rpm"
+      },
+      "Maximum Temperature": {
+        "Value": 209.48417880468838,
+        "Uom": "degF"
+      },
+      "Maximum TVDGL": {
+        "Value": 6135.14379756939,
+        "Uom": "ft"
+      },
+      "Mud Type": "Oil Based Mud",
+      "Mud Weight": {
+        "Value": 12.599999999999991,
+        "Uom": "ppg"
+      },
+      "Sand Content": {
+        "Value": null,
+        "Uom": "%"
+      },
+      "Solid Content": {
+        "Value": 25.0,
+        "Uom": "%"
+      },
+      "Maximum Torque": {
+        "Value": 20093.108869979176,
+        "Uom": "kft.lb"
+      },
+      "Drilling / Operational Time": {
+        "Value": 120.85444444541129,
+        "Uom": "hours"
+      },
+      "Circulating Time": {
+        "Value": 139.3195052094479,
+        "Uom": "hours"
+      },
+      "Maximum Data Rate": {
+        "Value": null,
+        "Uom": "bps"
+      },
+      "Maximum Data Rate - % Decoding": {
+        "Value": 99.0393983437858,
+        "Uom": "%"
+      },
+      "Maximum Data Rate - Frequency": {
+        "Value": null,
+        "Uom": "Hz"
+      }
+    },
+    "Product Family Specific Operational Parameters": {
+      "% of Oil": {
+        "Value": 56.399999999999991,
+        "Uom": "%"
+      },
+      "% of Water": {
+        "Value": 18.0,
+        "Uom": "%"
+      },
+      "% of Solids": {
+        "Value": 23.599999999999998,
+        "Uom": "%"
+      },
+      "Agitator": "No",
+      "AKO setting": {
+        "Value": null,
+        "Uom": "deg"
+      },
+      "Average Motor Diff. Pressure": {
+        "Value": 278.99358213885921,
+        "Uom": "psi"
+      },
+      "Average WOB": {
+        "Value": 17.347571602403161,
+        "Uom": "klbf"
+      },
+      "Axial Bearing Gap In": {
+        "Value": null,
+        "Uom": "in"
+      },
+      "Axial Bearing Gap Out": {
+        "Value": null,
+        "Uom": "in"
+      },
+      "Bit # of Blades": "5",
+      "Bit Gauge Length": {
+        "Value": 2.9999999999999982,
+        "Uom": "in"
+      },
+      "Bit Nozzle Size": "7x16",
+      "Bit TFA": {
+        "Value": 1.3744467859457119,
+        "Uom": "in2"
+      },
+      "Bottom Hole Temperature": {
+        "Value": 152.71862399999992,
+        "Uom": "degF"
+      },
+      "Chlorides": {
+        "Value": 26239.0670553936,
+        "Uom": "ppm"
+      },
+      "Drilled Cement (Y/N)": "No",
+      "Inclination In": {
+        "Value": 24.995414747986786,
+        "Uom": "deg"
+      },
+      "Inclination Out": {
+        "Value": 95.484755237209029,
+        "Uom": "deg"
+      },
+      "LCM Type": null,
+      "Max. Circl. Temperature": {
+        "Value": 209.48417880468838,
+        "Uom": "degF"
+      },
+      "Max. DLS Non-Rotated": {
+        "Value": 13.824224679403674,
+        "Uom": "deg/100ft"
+      },
+      "Max. Run Inclination": {
+        "Value": 110.69769661028748,
+        "Uom": "deg"
+      },
+      "Max. SPP": {
+        "Value": 4970.362208265,
+        "Uom": "psi"
+      },
+      "Max. WOB": {
+        "Value": 32.769992145126778,
+        "Uom": "klbf"
+      },
+      "Min. SPP": {
+        "Value": 1013.3003796174,
+        "Uom": "psi"
+      },
+      "Motor New/Re-Run": "New",
+      "Mud resistivity": {
+        "Value": null,
+        "Uom": "ohm.m"
+      },
+      "Mud Trade Name": "Paragon",
+      "Mud Viscosity": {
+        "Value": null,
+        "Uom": "cP"
+      },
+      "PV (Plastic Viscosity)": {
+        "Value": 23.0,
+        "Uom": "cP"
+      },
+      "OD-2nd Stabilizer": {
+        "Value": null,
+        "Uom": "in"
+      },
+      "OD-Nortrak": {
+        "Value": null,
+        "Uom": "in"
+      },
+      "OD-UBHS": {
+        "Value": null,
+        "Uom": "in"
+      },
+      "pH of Mud": "",
+      "ROP (Rate of Penetration)": {
+        "Value": 156.56999999937375,
+        "Uom": "ft/h"
+      },
+      "Run ROP": {
+        "Value": 134.13543889655048,
+        "Uom": "ft/h"
+      },
+      "Salinity Content": {
+        "Value": 2.62390670553936,
+        "Uom": "%"
+      },
+      "Sliding Footage": {
+        "Value": 0.0,
+        "Uom": "ft"
+      },
+      "Sliding Hrs": {
+        "Value": 0.0,
+        "Uom": "hours"
+      },
+      "String RPM": {
+        "Value": 115.09389791776314,
+        "Uom": "rpm"
+      },
+      "TesTrak Pad Colour (Red or Black)": null,
+      "Total BPA Time": {
+        "Value": 0.0002027777777794,
+        "Uom": "hours"
+      },
+      "Low Gravity Solids": {
+        "Value": 13.100000000000001,
+        "Uom": "%"
+      },
+      "Max. Valve Angle": {
+        "Value": null,
+        "Uom": "deg"
+      },
+      "Max. Inclination": {
+        "Value": 110.69769661028748,
+        "Uom": "deg"
+      },
+      "Min. Inclination": {
+        "Value": 24.995414747986786,
+        "Uom": "deg"
+      },
+      "Max. Stat. Temperature": {
+        "Value": 195.96858525,
+        "Uom": "degF"
+      },
+      "BUR Achieved": {
+        "Value": null,
+        "Uom": "deg/100ft"
+      },
+      "BUR Planned": {
+        "Value": null,
+        "Uom": "deg/100ft"
+      },
+      "Ditch Magnet used (Y/N)": "No",
+      "Drilled casing shoe (Y/N)": "No",
+      "Motor Stall Differential Pressure": {
+        "Value": 869.99999999999977,
+        "Uom": "psi"
+      },
+      "Passing Whipstock (Y/N)": "No",
+      "Formation Name": null,
+      "# of Motor Stalls": 0,
+      "BCPM2 - AC Mode Operation > 24hrs (Y/N)": "No",
+      "BHA Overpull?": "No",
+      "Bit in bad condition (Y/N)": "No",
+      "Contractor": null,
+      "Cumulated Valve Open Time": {
+        "Value": null,
+        "Uom": "hours"
+      },
+      "Max Flow EDC Closed": {
+        "Value": null,
+        "Uom": "Usgal/min"
+      },
+      "Directional Company": null,
+      "Drilling Blindly over 30min? (Y/N)": "No",
+      "EM Frequency": "",
+      "EM Modulation Mode": null,
+      "EM Power Mode": null,
+      "Field Engineer": null,
+      "Flow Split": "No",
+      "Formation drilled: Unayzha C, Arabs, Sara, Khuff and/or HITH": null,
+      "HSI (Bit)": "",
+      "Max Flow EDC Open": {
+        "Value": null,
+        "Uom": "Usgal/min"
+      },
+      "Max. Overpull": {
+        "Value": null,
+        "Uom": "klbf"
+      },
+      "Milling Window": "No",
+      "Motor Power Section R/S Fit": "No",
+      "Not following IPWP and LM recommendation": "No",
+      "Power On Hours": {
+        "Value": null,
+        "Uom": "hours"
+      },
+      "Pumped Cement through BHA?": "No",
+      "Total TFA": {
+        "Value": null,
+        "Uom": "in2"
+      },
+      "Visual Inspection of the tool, is good?": "No",
+      "XPR Activation Depth": {
+        "Value": null,
+        "Uom": "ft"
+      },
+      "XPR Activation Flow": {
+        "Value": null,
+        "Uom": "Usgal/min"
+      },
+      "XPR Activation Screw Rating": "",
+      "XPR Blade 1 Grading": null,
+      "XPR Blade 2 Grading": null,
+      "XPR Blade 3 Grading": null,
+      "XPR Cir Hrs - Pre-Activation": {
+        "Value": null,
+        "Uom": "hours"
+      },
+      "XPR Drilling Hrs": {
+        "Value": null,
+        "Uom": "hours"
+      },
+      "XPR No. of Activation Screws": "",
+      "XPR Nozzle Size": "",
+      "XPR Pressure Indication": "No",
+      "XPR TFA": {
+        "Value": null,
+        "Uom": "in2"
+      }
+    }
+  },
+  "Incidents": [],
+  "VSS Data": [
+    {
+      "Upper BHA Records": {
+        "VSS Data Type": "RT",
+        "Tangential [severity level] vs. Time [hours]": {
+          "SN": "14334277",
+          "Level 0": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 1": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 2": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 3": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 4": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 7": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 0.0,
+            "Uom": "hours"
+          }
+        },
+        "Stick Slip [level] vs. Time [hours]": {
+          "SN": "14334277",
+          "Level 0 (Normal State)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 1 (Normal State)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 2 (Torsional Oscillations)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 3 (Torsional Oscillations)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 4 (Torsional Oscillations)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5 (Stick-Slip)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6 (Stick-Slip)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 7 (Backward Rotation)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 0.0,
+            "Uom": "hours"
+          }
+        },
+        "Lateral [severity level] vs. Time [hours]": {
+          "SN": "14334277",
+          "Level 0": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 1": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 2": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 3": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 4": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 7": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 0.0,
+            "Uom": "hours"
+          }
+        },
+        "Axial [severity level] vs. Time [hours]": {
+          "SN": "14334277",
+          "Level 0": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 1": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 2": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 3": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 4": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 7": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 0.0,
+            "Uom": "hours"
+          }
+        },
+        "Temperature  vs. Time": {
+          "SN": "14334277",
+          "Vss Temperature Data": [
+            {
+              "Temperature  Range": "59[degF] < Temp < 185[degF]",
+              "Time": {
+                "Value": 87.766544143728723,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "185[degF] < Temp < 257[degF]",
+              "Time": {
+                "Value": 51.552961064604617,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "257[degF] < Temp < 302[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "302[degF] < Temp < 329[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "329[degF] < Temp < 347[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "347[degF] < Temp < 365[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "365[degF] < Temp < 392[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            },
+            {
+              "Temperature  Range": "Temp > 392[degF]",
+              "Time": {
+                "Value": 0.0,
+                "Uom": "hours"
+              }
+            }
+          ],
+          "TotalHours": {
+            "Value": 139.31950520833334,
+            "Uom": "hours"
+          }
+        }
+      },
+      "Near-Bit Records": {
+        "VSS Data Type": "RT",
+        "Stick Slip [level] vs. Time [hours]": {
+          "SN": "14949209",
+          "Level 0 (Normal State)": {
+            "Value": 109.17462585449219,
+            "Uom": "hours"
+          },
+          "Level 1 (Normal State)": {
+            "Value": 22.099935099283854,
+            "Uom": "hours"
+          },
+          "Level 2 (Torsional Oscillations)": {
+            "Value": 6.9565106201171876,
+            "Uom": "hours"
+          },
+          "Level 3 (Torsional Oscillations)": {
+            "Value": 0.94646402994791667,
+            "Uom": "hours"
+          },
+          "Level 4 (Torsional Oscillations)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5 (Stick-Slip)": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6 (Stick-Slip)": {
+            "Value": 0.09464640299479167,
+            "Uom": "hours"
+          },
+          "Level 7 (Backward Rotation)": {
+            "Value": 0.047323201497395835,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 139.31950520833334,
+            "Uom": "hours"
+          }
+        },
+        "Lateral [severity level] vs. Time [hours]": {
+          "SN": "14949209",
+          "Level 0": {
+            "Value": 0.74827528812800714,
+            "Uom": "hours"
+          },
+          "Level 1": {
+            "Value": 118.18072831871714,
+            "Uom": "hours"
+          },
+          "Level 2": {
+            "Value": 18.005374120580175,
+            "Uom": "hours"
+          },
+          "Level 3": {
+            "Value": 2.2915930698920217,
+            "Uom": "hours"
+          },
+          "Level 4": {
+            "Value": 0.046767205508000446,
+            "Uom": "hours"
+          },
+          "Level 5": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6": {
+            "Value": 0.046767205508000446,
+            "Uom": "hours"
+          },
+          "Level 7": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 139.31950520833334,
+            "Uom": "hours"
+          }
+        },
+        "Axial [severity level] vs. Time [hours]": {
+          "SN": "14949209",
+          "Level 0": {
+            "Value": 127.86538481368848,
+            "Uom": "hours"
+          },
+          "Level 1": {
+            "Value": 11.407368882829978,
+            "Uom": "hours"
+          },
+          "Level 2": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 3": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 4": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 5": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 6": {
+            "Value": 0.0,
+            "Uom": "hours"
+          },
+          "Level 7": {
+            "Value": 0.04675151181487696,
+            "Uom": "hours"
+          },
+          "Total Hours": {
+            "Value": 139.31950520833334,
+            "Uom": "hours"
+          }
+        },
+        "Tangential [severity level] vs. Time [hours]": {
+          "SN": "14949209",
+          "Nearbit Tangential Data": [
+            {
+              "TangentialRange": "(Level 0) < 1.0000 gravity",
+              "Time": {
+                "Value": 113.30257203517553,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 1) 1.0000 - 3.0000",
+              "Time": {
+                "Value": 5.5784054911815835,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 2) 3.0000 - 5.0000",
+              "Time": {
+                "Value": 1.0781792125813145,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 3) 5.0000 - 8.0000",
+              "Time": {
+                "Value": 18.422801328019851,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 4) 8.0000 - 12.0000",
+              "Time": {
+                "Value": 0.75003771310004486,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 5) 12.0000 - 15.0000",
+              "Time": {
+                "Value": 0.046877357068752804,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 6) 15.0000 - 21.0000",
+              "Time": {
+                "Value": 0.046877357068752804,
+                "Uom": "hours"
+              }
+            },
+            {
+              "TangentialRange": "(Level 7) > 21.0000",
+              "Time": {
+                "Value": 0.093754714137505607,
+                "Uom": "hours"
+              }
+            }
+          ],
+          "Total Hours": {
+            "Value": 139.31950520833334,
+            "Uom": "hours"
+          }
+        }
+      }
+    }
+  ]
+}
