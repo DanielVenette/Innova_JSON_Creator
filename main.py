@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, Dict
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox
+import pyodbc
 
 # Optional DB import — only needed if you wire up ULSSDB
 try:
